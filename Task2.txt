@@ -1,0 +1,44 @@
+-Why do you like to join as a Software developer?
+=> Making usually appealing websites and solving problems and creating new innovative solutions through websites and logic is something I find 
+   interesting and exciting. This drive me to do things better.  I can leverage my technical skills to contribute to innovative projects, continuously
+   learn and adapt to new technologies, and collaborate with a team to bring ideas to life. 
+
+-List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+=> As a developer my top 3 tools would be -  
+    -Visual Studio Code: Its versatility, powerful features, and a rich ecosystem of extensions make it a go-to tool for development.
+    -Git and GitHub: These tools facilitate collaborative and version-controlled development, promoting efficient teamwork and code management.
+    -Netlify: For the deployment or hosting of my projects.
+   
+-List top 3 organisations you like to join in your career & why you like these organisations.
+    -Google: Known for innovation and a commitment to open-source, Google fosters a culture of continuous learning and provides opportunities
+     to work on cutting-edge projects.
+    -Microsoft: With a focus on empowering developers and a diverse range of technologies, Microsoft offers a dynamic environment for professional
+     growth and impact.
+    -A good Startup-Knowledge, experiance, exposure and growth these four key points that I beleive startups provides to young professional that
+     which help them in long run. 
+
+-How you position yourself in this industry after 2 years.
+ =>In two years, I envision myself as a seasoned developer with a strong expertise in java, javascript as well as bariouus libraries and frameworks 
+   like React Js,Next Js Angular etc. having successfully contributed to andled impactful projects.
+
+- List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+=> 
+    1. E-commerce Platform: Built a clone of famous e commerce website, flipkart. Used Redux for state management which was helpful in building
+       cart functionality and material UI for styling the page.
+       Features:
+        -Authentication, Email verification
+        -search functionality with regex support
+        -cart management for adding, removing, and updating products, API integration
+        -Order placement
+        -payment gateway
+    2. Meal Planner: The meal planner web application takes the different user inputs such as height, weight, activity level etc. to
+       calculate daily calorie requirement and based on that fetches a best several meal plans with their ingredients and recipes for
+       user.
+       Feature:
+        -HTML, CSS, and JavaScript-based web application
+        -Calculates daily calorie requirements of users
+        -Generates personalized meal plans based on user inputs
+        -Intuitive and user-friendly interface
+        -Fetch API and show recipes
+    3. Inventory management website: I am working on this now..
+
