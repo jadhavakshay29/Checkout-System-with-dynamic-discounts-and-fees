@@ -53,17 +53,20 @@ function calculateDiscount(cart, products){
         },0);
         discountName = "tiered_50_discount";
     }else if(totalQuantity > 20){
+        //10% discount
         discountAmount = calculateSubTotal(cart, products)* 0.1;
         discountName = "bulk_10_discount";
     }else if(maxQuantity > 10){
         for(const product in cart){
             if(cart[product].quantity > 10 ){
+                //5% discount
                 discountAmount = cart[product].quantity * (products[product] * 0.05); 
                 discountName = "bulk_5_discount";
                 break;
             }
         }
     }else if(calculateSubTotal(cart, products) > 200){
+        //10% discount
         discountAmount = 10;
         discountName = "flat_10_discount";
     }
